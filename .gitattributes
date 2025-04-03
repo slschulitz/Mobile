@@ -1,0 +1,3 @@
+*.kt            text diff=kotlin
+*.kts           text diff=kotlin
+*.gradle.kts    text diff=kotlin
